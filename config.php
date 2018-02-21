@@ -1,10 +1,10 @@
 <?php
  # client id
- define('Client_ID', '845724847914-no3sf1j6ir92bgho27ocid3995ubcsfi.apps.googleusercontent.com');
+ define('Client_ID', 'client-id');
  # client secret 
- define('Client_SECRET', 'FyC3w-aGN5fRpta1y9xX2NE8');
+ define('Client_SECRET', 'secret-key');
  # redirection url 
- define('Redirection_URL', 'http://localhost/google_mail/index.php');
+ define('Redirection_URL', 'http://localhost/google_mail/index.php'); // url callback
  # max result 
  define('Max_RESULT', 1000);
 ?> 
